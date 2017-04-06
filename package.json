@@ -1,0 +1,38 @@
+{
+  "name": "react-speed-dial",
+  "version": "0.4.1",
+  "description": "React Component that implements a speed dial using Material-UI.",
+  "email": "simon.mollweide@web.de",
+  "author": "Simon Mollweide <simon.mollweide@web.de>",
+  "url": "https://github.com/smollweide/react-speed-dial",
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/smollweide/react-speed-dial"
+  },
+  "main": "index.js",
+  "bugs": {
+    "url": "https://github.com/smollweide/react-speed-dial/issues"
+  },
+  "preferGlobal": false,
+  "private": false,
+  "license": "MIT",
+  "homepage": "http://smollweide.github.io/react-speed-dial/",
+  "keywords": [
+    "react",
+    "react-component",
+    "material design",
+    "material-ui",
+    "speed-dial",
+    "speed dial"
+  ],
+  "peerDependencies": {
+    "material-ui": "^0.17.0",
+    "react": "^15.0.0",
+    "react-dom": "^15.0.0",
+    "react-tap-event-plugin": "^1.0.0 || ^2.0.0"
+  },
+  "dependencies": {
+    "babel-runtime": "^6.23.0",
+    "simple-assign": "^0.1.0"
+  }
+}
